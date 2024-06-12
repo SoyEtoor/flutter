@@ -1,0 +1,15 @@
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/connectivity_plus_plugin.dll
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/fonts/Roboto-Bold.ttf
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/fonts/Roboto-Regular.ttf
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/SONGO/paradigmas/flutterhacker/flutterhackeramiibos/hacker_amiibos/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
